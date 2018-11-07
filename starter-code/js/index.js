@@ -1,8 +1,14 @@
+var total = document.getElementById(calc-prices-button);
+var priceItem = document.getElementById(itemPrice);
+var quantityItem = document.getElementById(quantity).value;
+
+
 function deleteItem(e){
 
 }
 
 function getPriceByProduct(itemNode){
+
 
 }
 
@@ -11,6 +17,7 @@ function updatePriceByProduct(productPrice, index){
 }
 
 function getTotalPrice() {
+
 
 }
 
